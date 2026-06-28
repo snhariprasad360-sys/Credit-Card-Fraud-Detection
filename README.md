@@ -18,6 +18,7 @@ This project aims to detect fraudulent credit card transactions using Machine Le
 ## Dataset
 
 The project uses the Credit Card Fraud Detection dataset containing transaction records.
+see the datasets in release.
 
 ### Features
 
